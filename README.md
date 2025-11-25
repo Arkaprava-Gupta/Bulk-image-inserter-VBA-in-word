@@ -1,5 +1,7 @@
 # Bulk-image-inserter-VBA-in-word
-Bulk image inserter VBA in word
+Bulk image inserter VBA code in word
+
+After u  save a ppt as image ...it creates multiple image files in a document ....then when u run this macro ...it 
 
 
 Lets you pick a folder,
